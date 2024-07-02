@@ -1,0 +1,44 @@
+img{
+    width:500px;
+    height:500px;
+    padding:2px;
+    margin-left:440px;
+    border:3px solid black;
+    box-sizing: border-box;
+
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 35px;
+    
+
+}
+h2{
+    color:rgb(34, 31, 77);
+}
+body{
+    
+    background-color:lightblue;
+    padding:60px;
+    border-style:outset;
+    border-radius: 150px;
+    
+
+}
+li{
+    color:rgb(50, 86, 121);
+    font-size:22px;
+    text-wrap:pretty;
+    justify-content: space-around;
+    text-justify: distribute-all-lines;
+}
+h3{
+    color:rgb(50, 86, 121);
+    display: flex;
+    font-size:22px;
+    text-wrap:pretty;
+    text-decoration-style: wavy;
+    text-indent: 200px;
+    text-justify: distribute-all-lines;
+}
